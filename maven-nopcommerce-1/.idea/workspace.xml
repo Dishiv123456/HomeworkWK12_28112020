@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab064bd1-716a-425b-b375-852189d95fe2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../abc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/src/test/java/com/nopcommerce/demo/testsuite/Test123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven-nopcommerce-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/basepage/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/customelisterners/CustomListernes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/pages/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/pages/TestSuitePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/customlisterners/CustomListernes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testNG/TestNGDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testNG/TestNGListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testNG/TestNGListenersDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testNG/TestNGPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testsuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testsuite/RegistrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testsuite/TestSuiteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/Listeners.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/reportNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/testdata/ExcelData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/testdata/ExcelRead.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/testdata/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/demo/basepage/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/demo/customelisterners/CustomListernes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/demo/pages/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/demo/pages/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/demo/pages/RegisterPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/demo/propertyreader/PropertyReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/demo/utility/Utility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/maven-xcart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/main/java/com/xcart/demostore/basepage/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/main/java/com/xcart/demostore/customelisterners/CustomListernes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/main/java/com/xcart/demostore/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/main/java/com/xcart/demostore/pages/HotDeals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/main/java/com/xcart/demostore/pages/SaleProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/main/java/com/xcart/demostore/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/main/java/com/xcart/demostore/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/test/java/com/xcart/demostore/customlisterners/CustomListernes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/test/java/com/xcart/demostore/testNG/TestNGDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/test/java/com/xcart/demostore/testNG/TestNGListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/test/java/com/xcart/demostore/testNG/TestNGListenersDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/test/java/com/xcart/demostore/testNG/TestNGPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/test/java/com/xcart/demostore/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/test/java/com/xcart/demostore/testsuite/TestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/test/java/resources/propertiesfile/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/test/java/resources/runners/Listeners.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/test/java/resources/runners/reportNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/test/java/resources/runners/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/test/java/resources/testdata/ExcelData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/test/java/resources/testdata/ExcelRead.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/src/test/java/resources/testdata/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/target/classes/com/xcart/demostore/basepage/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/target/classes/com/xcart/demostore/customelisterners/CustomListernes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/target/classes/com/xcart/demostore/pages/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/target/classes/com/xcart/demostore/propertyreader/PropertyReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/target/classes/com/xcart/demostore/utility/Utility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/target/test-classes/com/xcart/demostore/customlisterners/CustomListernes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/target/test-classes/com/xcart/demostore/testNG/TestNGDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/target/test-classes/com/xcart/demostore/testNG/TestNGListeners.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/target/test-classes/com/xcart/demostore/testNG/TestNGListenersDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/target/test-classes/com/xcart/demostore/testNG/TestNGPriority.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/target/test-classes/com/xcart/demostore/testbase/TestBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/target/test-classes/resources/testdata/TestData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/test-output/html/VerifyUserShouldNavigateToSignInPageMon_Nov_30_23_17_52_GMT_2020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/test-output/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/test-output/html/output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/test-output/html/overview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/test-output/html/reportng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/test-output/html/reportng.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/test-output/html/sorttable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/test-output/html/suite1_test1_results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/test-output/html/suites.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-xcart/test-output/xml/com.xcart.demostore.testsuite.TestSuite_results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/main/java/com/bank/basepage/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/main/java/com/bank/customelisterners/CustomListernes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/main/java/com/bank/pages/AccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/main/java/com/bank/pages/AddCustomerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/main/java/com/bank/pages/BankManagerLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/main/java/com/bank/pages/CustomerLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/main/java/com/bank/pages/CustomersPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/main/java/com/bank/pages/Homepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/main/java/com/bank/pages/OpenAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/main/java/com/bank/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/main/java/com/bank/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/test/java/com/bank/customlisterners/CustomListernes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/test/java/com/bank/testNG/TestNGDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/test/java/com/bank/testNG/TestNGListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/test/java/com/bank/testNG/TestNGListenersDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/test/java/com/bank/testNG/TestNGPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/test/java/com/bank/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/test/java/com/bank/testsuite/BankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/test/java/resources/propertiesfile/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/test/java/resources/runners/Listeners.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/test/java/resources/runners/reportNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/test/java/resources/runners/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/test/java/resources/testdata/ExcelData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/test/java/resources/testdata/ExcelRead.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/src/test/java/resources/testdata/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/target/classes/com/bank/basepage/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/target/classes/com/bank/customelisterners/CustomListernes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/target/classes/com/bank/pages/AccountPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/target/classes/com/bank/pages/AddCustomerPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/target/classes/com/bank/pages/BankManagerLoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/target/classes/com/bank/pages/CustomerLoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/target/classes/com/bank/pages/CustomersPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/target/classes/com/bank/pages/Homepage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/target/classes/com/bank/pages/OpenAccountPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/target/classes/com/bank/propertyreader/PropertyReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/target/classes/com/bank/utility/Utility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/target/test-classes/com/bank/customlisterners/CustomListernes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/target/test-classes/com/bank/testNG/TestNGDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/target/test-classes/com/bank/testNG/TestNGListeners.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/target/test-classes/com/bank/testNG/TestNGListenersDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/target/test-classes/com/bank/testNG/TestNGPriority.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/target/test-classes/com/bank/testbase/TestBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/target/test-classes/com/bank/testsuite/BankTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/target/test-classes/resources/testdata/TestData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/test-output/html/bankManagerShouldAddCustomerSuccessfullyTue_Dec_01_15_12_45_GMT_2020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/test-output/html/bankManagerShouldOpenAccountSuccessfullyTue_Dec_01_15_12_54_GMT_2020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/test-output/html/customerShouldDepositMoneySuccessfullyTue_Dec_01_15_13_03_GMT_2020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/test-output/html/customerShouldLoginAndLogoutSuceessfullyTue_Dec_01_15_13_12_GMT_2020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/test-output/html/customerShouldWithdrawMoneySuccessfullyTue_Dec_01_15_13_22_GMT_2020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/test-output/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/test-output/html/output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/test-output/html/overview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/test-output/html/reportng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/test-output/html/reportng.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/test-output/html/sorttable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/test-output/html/suite1_test1_results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/test-output/html/suites.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/test-output/xml/com.bank.testsuite.BankTest_results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz-bank/xyz-bank.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barclays/src/barclaysbrowsertest/ChromeBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../barclays/src/barclaysbrowsertest/ChromeBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barclays/src/barclaysbrowsertest/FirefoxBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../barclays/src/barclaysbrowsertest/FirefoxBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barclays/src/barclaysbrowsertest/IEBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../barclays/src/barclaysbrowsertest/IEBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barclays/src/barclaysbrowsertest/MultiBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../barclays/src/barclaysbrowsertest/MultiBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barclayselenium/src/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../barclayselenium/src/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barclayselenium/src/LogInVerify.java" beforeDir="false" afterPath="$PROJECT_DIR$/../barclayselenium/src/LogInVerify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/src/main/java/com/nopcommerce/demo/basepage/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/src/main/java/com/nopcommerce/demo/basepage/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/src/main/java/com/nopcommerce/demo/utility/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/src/main/java/com/nopcommerce/demo/utility/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/src/test/java/com/nopcommerce/demo/testbase/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/src/test/java/com/nopcommerce/demo/testbase/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/src/test/java/com/nopcommerce/demo/testsuite/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/src/test/java/com/nopcommerce/demo/testsuite/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/src/test/java/com/nopcommerce/demo/testsuite/RegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/src/test/java/com/nopcommerce/demo/testsuite/RegistrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/src/test/java/com/nopcommerce/demo/testsuite/TestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/src/test/java/com/nopcommerce/demo/testsuite/TestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/src/test/java/com/nopcommerce/demo/testsuite/TopMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/src/test/java/com/nopcommerce/demo/testsuite/TopMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/target/classes/com/nopcommerce/demo/basepage/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/target/classes/com/nopcommerce/demo/basepage/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/target/classes/com/nopcommerce/demo/utility/Utility.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/target/classes/com/nopcommerce/demo/utility/Utility.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/target/test-classes/com/nopcommerce/demo/testbase/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/target/test-classes/com/nopcommerce/demo/testbase/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/target/test-classes/com/nopcommerce/demo/testsuite/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dem-onopcommerce/dem-onopcommerce/target/test-classes/com/nopcommerce/demo/testsuite/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dem-onopcommerce/maven-selenium-practice/maven-selenium-practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../dem-onopcommerce/maven-selenium-practice/maven-selenium-practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dem-onopcommerce/maven-selenium-practice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dem-onopcommerce/maven-selenium-practice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dem-onopcommerce/maven-selenium-practice/src/main/java/com/tesco/utility/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dem-onopcommerce/maven-selenium-practice/src/main/java/com/tesco/utility/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dem-onopcommerce/maven-selenium-practice/src/test/java/com/tesco/testbase/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dem-onopcommerce/maven-selenium-practice/src/test/java/com/tesco/testbase/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../harrow/src/harrowbrowsertest/ChromeBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../harrow/src/harrowbrowsertest/ChromeBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../harrow/src/harrowbrowsertest/FirefoxBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../harrow/src/harrowbrowsertest/FirefoxBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../harrow/src/harrowbrowsertest/IEBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../harrow/src/harrowbrowsertest/IEBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../harrow/src/harrowbrowsertest/MultiBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../harrow/src/harrowbrowsertest/MultiBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../harrowselenium/src/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../harrowselenium/src/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../harrowselenium/src/LogInRegisterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../harrowselenium/src/LogInRegisterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepractice/src/learningathome/Constuctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homepractice/src/learningathome/Constuctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepractice/src/learningathome/ExEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homepractice/src/learningathome/ExEight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepractice/src/learningathome/ExEleven.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homepractice/src/learningathome/ExEleven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepractice/src/learningathome/ExFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homepractice/src/learningathome/ExFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepractice/src/learningathome/ExFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homepractice/src/learningathome/ExFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepractice/src/learningathome/ExNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homepractice/src/learningathome/ExNine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepractice/src/learningathome/ExSeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homepractice/src/learningathome/ExSeven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepractice/src/learningathome/ExSix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homepractice/src/learningathome/ExSix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepractice/src/learningathome/ExTen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homepractice/src/learningathome/ExTen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepractice/src/learningathome/ExThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homepractice/src/learningathome/ExThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepractice/src/learningathome/Extwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homepractice/src/learningathome/Extwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepractice/src/learningathome/JavaPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homepractice/src/learningathome/JavaPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepractice/src/learningathome/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homepractice/src/learningathome/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepractice/src/learningathome/PracticeOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homepractice/src/learningathome/PracticeOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepractice/src/learningathome/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homepractice/src/learningathome/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homepractice/src/learningathome/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homepractice/src/learningathome/Wall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/EXSeventeen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/EXSeventeen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExEight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExEighteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExEighteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExEleven.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExEleven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExNine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExNineteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExNineteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExSeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExSeven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExSix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExSix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExSixteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExSixteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExTen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExTen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExThirteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExThirteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExTwelve.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExTwelve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExTwenty.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExTwenty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/ExTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-24102020/src/homeworkweekseven/Wall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-_17102020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-_17102020/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework-_17102020/out/production/homework-_17102020/homeworkweeksix/ExerciseSixteen.class" beforeDir="false" afterPath="$PROJECT_DIR$/../homework-_17102020/out/production/homework-_17102020/homeworkweeksix/ExerciseSixteen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/DigitSumChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/DigitSumChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExEleven.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExEleven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExFifteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExFifteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExFourteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExFourteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExNine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExSeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExSeven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExSix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExSix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExTen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExTen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExThirteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExThirteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExTwelve.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ExTwelve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/Exeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/Exeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/MinAndMaxInputChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/MinAndMaxInputChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ReadingUserInputChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/ReadingUserInputChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/SimpleCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/abstact_abc/Circle1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/abstact_abc/Circle1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/abstact_abc/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/abstact_abc/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/abstact_abc/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/abstact_abc/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/abstact_abc/TestAbstraction1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/abstact_abc/TestAbstraction1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/carpetcostcalculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/carpetcostcalculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/carpetcostcalculator/Carpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/carpetcostcalculator/Carpet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/carpetcostcalculator/Floor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/carpetcostcalculator/Floor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/carpetcostcalculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/carpetcostcalculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/cylindercircle/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/cylindercircle/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/cylindercircle/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/cylindercircle/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/cylindercircle/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/cylindercircle/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/methodoverloading_abc/Student5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/methodoverloading_abc/Student5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/methodoverriding_abc/Bike2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/methodoverriding_abc/Bike2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/methodoverriding_abc/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/methodoverriding_abc/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/methodoverriding_xyz/AXIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/methodoverriding_xyz/AXIS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/methodoverriding_xyz/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/methodoverriding_xyz/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/methodoverriding_xyz/ICICI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/methodoverriding_xyz/ICICI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/methodoverriding_xyz/SBI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/methodoverriding_xyz/SBI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/methodoverriding_xyz/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/methodoverriding_xyz/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/multilevelinheritance_abc/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/multilevelinheritance_abc/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/multilevelinheritance_abc/BabyDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/multilevelinheritance_abc/BabyDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/multilevelinheritance_abc/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/multilevelinheritance_abc/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/multilevelinheritance_abc/TestInheritance2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/multilevelinheritance_abc/TestInheritance2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/poolarea/Cuboid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/poolarea/Cuboid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/poolarea/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/poolarea/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/poolarea/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework31102020/src/homeworkweekeight/poolarea/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_07112020/barclays/out/production/barclays/barclaysbrowsertest/MultiBrowserTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_07112020/barclays/out/production/barclays/barclaysbrowsertest/MultiBrowserTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworkweek9/src/collectionhomework/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homeworkweek9/src/collectionhomework/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworkweek9/src/collectionhomework/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homeworkweek9/src/collectionhomework/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworkweek9/src/collectionhomework/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homeworkweek9/src/collectionhomework/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworkweek9/src/collectionhomework/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homeworkweek9/src/collectionhomework/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworkweek9/src/collectionhomework/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homeworkweek9/src/collectionhomework/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/src/Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/src/Encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/src/arrays/ArraysExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/src/arrays/ArraysExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/src/carpetcostcalculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/src/carpetcostcalculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/src/carpetcostcalculator/Carpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/src/carpetcostcalculator/Carpet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/src/carpetcostcalculator/Floor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/src/carpetcostcalculator/Floor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/src/carpetcostcalculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/src/carpetcostcalculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/src/collection/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/src/collection/ArrayListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/src/collection/Maps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/src/collection/Maps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/src/constructor/ConstructorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/src/constructor/ConstructorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/src/datatype/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/src/datatype/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/src/exceptions/exceptionsdemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/src/exceptions/exceptionsdemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/src/inheritence/ChildClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/src/inheritence/ChildClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/src/inheritence/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/src/inheritence/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/src/inheritence/ParentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/src/inheritence/ParentClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/src/polymorphism/MethodOverLoading.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/src/polymorphism/MethodOverLoading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/src/statments/ForLoopExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/src/statments/ForLoopExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/src/statments/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/src/statments/IfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/src/statments/NestedIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/src/statments/NestedIfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/src/statments/SwitchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/src/statments/SwitchExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/src/statments/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/src/statments/WhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next/src/Facebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../next/src/Facebook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next/src/nextbrowsertest/BrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../next/src/nextbrowsertest/BrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommerce/src/nopcommercebrowsertesting/ChromeBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommerce/src/nopcommercebrowsertesting/ChromeBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommerce/src/nopcommercebrowsertesting/FirefoxBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommerce/src/nopcommercebrowsertesting/FirefoxBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommerce/src/nopcommercebrowsertesting/IEBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommerce/src/nopcommercebrowsertesting/IEBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommerce/src/nopcommercebrowsertesting/MultiBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommerce/src/nopcommercebrowsertesting/MultiBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommerceselenium/src/ApparelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommerceselenium/src/ApparelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommerceselenium/src/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommerceselenium/src/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommerceselenium/src/BooksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommerceselenium/src/BooksTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommerceselenium/src/ComputersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommerceselenium/src/ComputersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommerceselenium/src/DigitalDownloadsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommerceselenium/src/DigitalDownloadsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommerceselenium/src/ElectronicsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommerceselenium/src/ElectronicsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommerceselenium/src/GiftCardsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommerceselenium/src/GiftCardsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommerceselenium/src/JewelryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommerceselenium/src/JewelryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommerceselenium/src/RegisterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommerceselenium/src/RegisterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommerceselenium/src/logInTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommerceselenium/src/logInTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-maven-project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-maven-project/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-maven-project/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-maven-project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-maven-project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-maven-project/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-maven-project/sample-maven-project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-maven-project/src/main/java/com/nopcommerce/demo/basepage/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-maven-project/src/main/java/com/nopcommerce/demo/utility/Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-maven-project/src/test/java/com/nopcommerce/demo/testbase/TestBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-maven-project/src/test/java/com/nopcommerce/demo/testsuite/LoginTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-practice/src/HomeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-practice/src/HomeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-practice/src/JUnitIntroduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-practice/src/JUnitIntroduction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-practice/src/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-practice/src/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-practice/src/TestFindFirstElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-practice/src/TestFindFirstElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-practice/src/actionclass/TestDragAndDrop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-practice/src/actionclass/TestDragAndDrop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-practice/src/actionclass/TestMouseHover.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-practice/src/actionclass/TestMouseHover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-practice/src/actionclass/TestRightClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-practice/src/actionclass/TestRightClick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-practice/src/alert/TestAlert.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-practice/src/alert/TestAlert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-practice/src/browsertesting/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-practice/src/browsertesting/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-practice/src/browsertesting/ChromeBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-practice/src/browsertesting/ChromeBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-practice/src/browsertesting/FirefoxBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-practice/src/browsertesting/FirefoxBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-practice/src/browsertesting/MultiBrowserTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-practice/src/browsertesting/MultiBrowserTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-practice/src/selectclass/TestDropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-practice/src/selectclass/TestDropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-practice/src/utility/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-practice/src/utility/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-practice/src/waits/TestExplicitWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-practice/src/waits/TestExplicitWait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-practice/src/workingwithlist/WorkingWithElementList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-practice/src/workingwithlist/WorkingWithElementList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumutility/src/basetest/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumutility/src/basetest/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumutility/src/nopcommerceselenium/ApparelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumutility/src/nopcommerceselenium/ApparelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumutility/src/nopcommerceselenium/BooksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumutility/src/nopcommerceselenium/BooksTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumutility/src/nopcommerceselenium/ComputersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumutility/src/nopcommerceselenium/ComputersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumutility/src/nopcommerceselenium/DigitalDownloadsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumutility/src/nopcommerceselenium/DigitalDownloadsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumutility/src/nopcommerceselenium/ElectronicsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumutility/src/nopcommerceselenium/ElectronicsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumutility/src/nopcommerceselenium/GiftCardsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumutility/src/nopcommerceselenium/GiftCardsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumutility/src/nopcommerceselenium/JewelryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumutility/src/nopcommerceselenium/JewelryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumutility/src/nopcommerceselenium/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumutility/src/nopcommerceselenium/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumutility/src/nopcommerceselenium/RegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumutility/src/nopcommerceselenium/RegistrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumutility/src/utility/UtilMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumutility/src/utility/UtilMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wcht/src/wchtbrowsertest/ChromeBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wcht/src/wchtbrowsertest/ChromeBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wcht/src/wchtbrowsertest/FirefoxBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wcht/src/wchtbrowsertest/FirefoxBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wcht/src/wchtbrowsertest/IEBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wcht/src/wchtbrowsertest/IEBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wcht/src/wchtbrowsertest/MultiBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wcht/src/wchtbrowsertest/MultiBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../x-cardselenium/src/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../x-cardselenium/src/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../x-cardselenium/src/FeaturesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../x-cardselenium/src/FeaturesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../x-cart/src/xcartbrowsertest/ChromeBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../x-cart/src/xcartbrowsertest/ChromeBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../x-cart/src/xcartbrowsertest/FirefoxBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../x-cart/src/xcartbrowsertest/FirefoxBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../x-cart/src/xcartbrowsertest/IEBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../x-cart/src/xcartbrowsertest/IEBrowserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../x-cart/src/xcartbrowsertest/MultiBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../x-cart/src/xcartbrowsertest/MultiBrowserTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\44796\IdeaProjects\maven-nopcommerce-1\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kvqj5Nr7dAj6lGp4mvfzMcoahx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../maven-x-cart" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nopcommerce.demo.customlisterners" />
+      <recent name="com.nopcommerce.demo.resources.testbase" />
+      <recent name="com.nopcommerce.demo.utility" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\44796\IdeaProjects\maven-nopcommerce-1\src\test\java" />
+      <recent name="C:\Users\44796\IdeaProjects\maven-nopcommerce-1\src\test\java\com\nopcommerce\demo\resources" />
+      <recent name="C:\Users\44796\IdeaProjects\maven-nopcommerce-1\src\test\java\com\nopcommerce\demo" />
+      <recent name="C:\Users\44796\IdeaProjects\maven-nopcommerce-1\src\test\java\com\nopcommerce\demo\propertiesfile" />
+      <recent name="C:\Users\44796\IdeaProjects\maven-nopcommerce-1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestSuiteTest.verifyProductAddedToShoppingCartSuccessFully">
+    <configuration name="C:/Users/44796/IdeaProjects/maven-nopcommerce-1/src/test/java/resources/runners/reportNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maven-nopcommerce-1" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/runners/reportNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maven-nopcommerce-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuite.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.verifyUserShouldNotLoginSuccessfullyWithInvalidCredentials" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maven-nopcommerce-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuite.LoginTest" />
+      <option name="METHOD_NAME" value="verifyUserShouldNotLoginSuccessfullyWithInvalidCredentials" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuiteTest.verifyProductAddedToShoppingCartSuccessFully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maven-nopcommerce-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuite.TestSuiteTest" />
+      <option name="METHOD_NAME" value="verifyProductAddedToShoppingCartSuccessFully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuiteTest.verifyProductArrangeInAlphaBaticalOrder" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maven-nopcommerce-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuite.TestSuiteTest" />
+      <option name="METHOD_NAME" value="verifyProductArrangeInAlphaBaticalOrder" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSuiteTest.verifyProductAddedToShoppingCartSuccessFully" />
+        <item itemvalue="TestNG.C:/Users/44796/IdeaProjects/maven-nopcommerce-1/src/test/java/resources/runners/reportNG.xml" />
+        <item itemvalue="TestNG.TestSuiteTest.verifyProductArrangeInAlphaBaticalOrder" />
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.LoginTest.verifyUserShouldNotLoginSuccessfullyWithInvalidCredentials" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab064bd1-716a-425b-b375-852189d95fe2" name="Default Changelist" comment="" />
+      <created>1606591544720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606591544720</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1606693817493">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1606693817493" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1606598283078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.-495.2560.1400@0.0.1366.728" timestamp="1606598283078" />
+    <state x="252" y="294" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1606903763983">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="252" y="294" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1606903763983" />
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606598384494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.-495.2560.1400@0.0.1366.728" timestamp="1606598384494" />
+    <state x="463" y="85" key="FileChooserDialogImpl" timestamp="1606738525057">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="85" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606738525057" />
+    <state width="1323" height="368" key="GridCell.Tab.0.bottom" timestamp="1606908129881">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-495.2560.1400@0.0.1366.728" timestamp="1606649940121" />
+    <state width="1323" height="368" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-823.2560.1400@0.0.1366.728" timestamp="1606836841031" />
+    <state width="1323" height="368" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606908129881" />
+    <state width="1323" height="368" key="GridCell.Tab.0.center" timestamp="1606908129879">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.-495.2560.1400@0.0.1366.728" timestamp="1606649940121" />
+    <state width="1323" height="368" key="GridCell.Tab.0.center/0.0.1366.728/1366.-823.2560.1400@0.0.1366.728" timestamp="1606836841030" />
+    <state width="1323" height="368" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606908129879" />
+    <state width="1323" height="368" key="GridCell.Tab.0.left" timestamp="1606908129878">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.-495.2560.1400@0.0.1366.728" timestamp="1606649940121" />
+    <state width="1323" height="368" key="GridCell.Tab.0.left/0.0.1366.728/1366.-823.2560.1400@0.0.1366.728" timestamp="1606836841030" />
+    <state width="1323" height="368" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606908129878" />
+    <state width="1323" height="368" key="GridCell.Tab.0.right" timestamp="1606908129880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.-495.2560.1400@0.0.1366.728" timestamp="1606649940121" />
+    <state width="1323" height="368" key="GridCell.Tab.0.right/0.0.1366.728/1366.-823.2560.1400@0.0.1366.728" timestamp="1606836841030" />
+    <state width="1323" height="368" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606908129880" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1606732435912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606732435912" />
+    <state x="499" y="146" key="chooseDestDirectoryDialog" timestamp="1606678849418">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="146" key="chooseDestDirectoryDialog/0.0.1366.728/1366.-495.2560.1400@0.0.1366.728" timestamp="1606649302552" />
+    <state x="499" y="146" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1606678849418" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1606737309062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1606737309062" />
+    <state x="92" y="92" width="1182" height="544" maximized="true" key="dock-window-1" timestamp="1606679767046">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" maximized="true" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1606679767046" />
+    <state x="65" y="69" key="new project wizard" timestamp="1606737409351">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="69" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1606737409351" />
+  </component>
+</project>
